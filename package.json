@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-jwt": "^6.0.0",
-    "jwks-rsa": "^1.8.1"
+    "jwks-rsa": "^1.12.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
